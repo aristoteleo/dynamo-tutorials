@@ -8,3 +8,4 @@ data/
 hsc_data.ipynb
 model_buffer/
 backup/
+.DS_Store
